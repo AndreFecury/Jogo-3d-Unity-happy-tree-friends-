@@ -1,0 +1,26 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.unityproj
+*.suo
+*.user
+*.pidb
+*.booproj
+*.apk
+*.unitypackage
+.vs/
+.vscode/
+.collabignore
+
+# Assets de terceiros (Asset Store), não redistribuídos
+Assets/AssetsStore/
+Assets/AssetsExternos/
+Assets/MonsterMutant 7/
+Assets/Sons/
